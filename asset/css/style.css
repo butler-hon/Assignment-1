@@ -6,7 +6,7 @@ body{
     
 }
 .container{
-    width: 90%;
+    width: 98%;
     background-color: rgb(226, 245, 244);
     margin: 0 auto;
     text-align: justify;
@@ -98,4 +98,22 @@ h2.title{
 tr.nev{
     width: 100%;
     float: right;
+}
+.owner img{
+    border-radius: 10%;
+    transition: .7s linear;
+    
+}
+.border{
+    
+    background: rgb(11, 111, 151);
+    height: 5px!important;
+    width: 40px;
+    margin: 10px 0px;
+
+}
+.h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
 }
